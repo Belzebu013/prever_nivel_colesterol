@@ -1,0 +1,29 @@
+[33mcommit 245b80db0a3c6fa0763a6fb1b80583119f4be667[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Eduardo Polidorio <polidoriodaniel@hotmail>
+Date:   Mon Oct 28 22:40:57 2024 -0300
+
+    Realizado Bucketing para o peso e idade
+
+[33mcommit acf4c900756a058d7f15dcdb767a481389f19082[m
+Author: Eduardo Polidorio <polidoriodaniel@hotmail>
+Date:   Fri Oct 25 17:12:29 2024 -0300
+
+    Conversão de variaveis e análises graficas de correlação
+
+[33mcommit 552c4aab36d6e79dc45db27c3db4fec43cb8a731[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Eduardo Polidorio <polidoriodaniel@hotmail>
+Date:   Wed Oct 23 00:25:12 2024 -0300
+
+    EDA - Remocação de outliers da variavel peso
+
+[33mcommit ea619a21dcd79c54154f0d307c0a66fec79ead64[m
+Author: Eduardo Polidorio <polidoriodaniel@hotmail>
+Date:   Wed Oct 23 00:02:08 2024 -0300
+
+    EDA - Detecção de valores ausentes e input de valores
+
+[33mcommit ae51b741989b2b91ef15fb3da89725b70f55fcb6[m
+Author: Eduardo Polidorio <polidoriodaniel@hotmail>
+Date:   Tue Oct 22 00:52:57 2024 -0300
+
+    Carga dos dados e padronização dos nomes das colunas
